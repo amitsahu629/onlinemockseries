@@ -3,7 +3,7 @@
 
 A fully responsive and interactive web application that provides students with an online platform to take mock tests, view results, explore current affairs, and access previous year question papers. Designed for competitive exam preparation with an admin upload panel and clean UI.
 
-🚀 **Live Demo**: [Visit Now](https://amitsahu629.github.io/onlinemockseries/)  
+🚀 **Live Demo**: [Visit Now] [https://amitsahu629.github.io/onlinemockseries/](https://amitsahu629.github.io/onlinemockseries/)
 📁 **Frontend**: HTML5, CSS3, JavaScript  
 📱 **Responsive**: Mobile, Tablet & Desktop Friendly  
 🎨 **Design**: Simple, Clean & Colorful UI  
