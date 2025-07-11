@@ -1,9 +1,9 @@
-```markdown
+
 # 🎯 Online Mock Series
 
 A fully responsive and interactive web application that provides students with an online platform to take mock tests, view results, explore current affairs, and access previous year question papers. Designed for competitive exam preparation with an admin upload panel and clean UI.
 
-🚀  [Visit now](https://amitsahu629.github.io/onlinemockseries/)
+🚀 **Live Demo**: [https://amitsahu629.github.io/onlinemockseries/](https://amitsahu629.github.io/onlinemockseries/)  
 📁 **Frontend**: HTML5, CSS3, JavaScript  
 📱 **Responsive**: Mobile, Tablet & Desktop Friendly  
 🎨 **Design**: Simple, Clean & Colorful UI  
@@ -55,7 +55,7 @@ onlinemockseries/
 
 ## 📸 Screenshots
 
-> _You can add screenshots of the UI here for better visualization._
+> _Add screenshots here if available for better UI representation._
 
 ---
 
@@ -68,16 +68,16 @@ onlinemockseries/
 ````
 
 2. **Open in Browser**
-   Open `index.html` directly in a browser, or deploy it using GitHub Pages or any static hosting.
+   Open `index.html` in any browser, or visit the [Live Demo](https://amitsahu629.github.io/onlinemockseries/).
 
 ---
 
 ## 📚 Future Enhancements
 
-* Backend Integration with Node.js or Spring Boot
-* MongoDB/MySQL for data storage
-* Admin dashboard with analytics
-* Question bank with tagging and filtering
+* Backend Integration (Node.js or Spring Boot)
+* Real Database (MongoDB/MySQL)
+* Admin Dashboard with analytics
+* Quiz filters and subject categorization
 
 ---
 
@@ -93,5 +93,6 @@ onlinemockseries/
 
 If you like this project, please ⭐ the repo and share it with others. Contributions are welcome!
 
-```
+
+
 
