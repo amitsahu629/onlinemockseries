@@ -1,7 +1,3 @@
-Here is a suggested `README.md` file for your repository [**Online Mock Series**](https://github.com/amitsahu629/onlinemockseries):
-
----
-
 ```markdown
 # 🎯 Online Mock Series
 
@@ -99,7 +95,3 @@ If you like this project, please ⭐ the repo and share it with others. Contribu
 
 ```
 
----
-
-Let me know if you'd like this customized with screenshots or badges (e.g., GitHub stars, license, etc.), or if you're adding backend soon.
-```
